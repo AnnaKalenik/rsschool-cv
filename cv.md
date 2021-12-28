@@ -5,13 +5,13 @@
 ## Contact information
 ![Phone](/images/phone.png) +375447744890
 
-![Email](/images/email.png) annakalenikalex@gmail.com
+[![Email](/images/email.png)](annakalenikalex@gmail.com) <annakalenikalex@gmail.com>
 
-![Telegram](/images/telegram.png) @anna_kalenik
+[![Telegram](/images/telegram.png)](https://t.me/anna_kalenik) @anna_kalenik
 
-![Linkedin](/images/linkedin.png) https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BA-916b36201/
+[![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BA-916b36201/) <https://www.linkedin.com/in/%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BA-916b36201/>
 
-![Github](/images/github.png) https://github.com/AnnaKalenik
+[![Github](/images/github.png)](https://github.com/AnnaKalenik) <https://github.com/AnnaKalenik>
 
 ![Discord](/images/discord.png) Nickname on the rs school discord server: Anna Kalenik(@AnnaKalenik)
 
@@ -50,13 +50,13 @@ console.log(sortingWords(str));
 ```
 
 ## Educational projects
-1. Game tick-tack-toe (JS, HTML5, CSS3) -https://annakalenik.github.io/game_tick-tack-toe/
-2. Todolist (HTML5, CSS3, JS) - https://annakalenik.github.io/todolist/
-3. Pop-up window with form (HTML5, CSS3, JS) - https://annakalenik.github.io/pop-up_window_with_form/
-4. Landingpage (HTML5, CSS3) - https://annakalenik.github.io/site__nerds/
-5. Landingpage (HTML5, CSS3) - https://annakalenik.github.io/site__creative_agency/
-6. Landingpage (HTML5, CSS3) - https://annakalenik.github.io/site__golden/
-7. Landingpage (JS, HTML5, CSS3, BEM) - https://www.ritual-lapichi.by/
+1. Game tick-tack-toe (JS, HTML5, CSS3) - <https://annakalenik.github.io/game_tick-tack-toe>/
+2. Todolist (HTML5, CSS3, JS) - <https://annakalenik.github.io/todolist>/
+3. Pop-up window with form (HTML5, CSS3, JS) - <https://annakalenik.github.io/pop-up_window_with_form>/
+4. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__nerds>/
+5. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__creative_agency>/
+6. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__golden>/
+7. Landingpage (JS, HTML5, CSS3, BEM) - <https://www.ritual-lapichi.by>/
 
 ## Education
 - **My IT School**, *online course in Minsk*\
