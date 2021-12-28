@@ -50,13 +50,13 @@ console.log(sortingWords(str));
 ```
 
 ## Educational projects
-1. Game tick-tack-toe (JS, HTML5, CSS3) - <https://annakalenik.github.io/game_tick-tack-toe>/
-2. Todolist (HTML5, CSS3, JS) - <https://annakalenik.github.io/todolist>/
-3. Pop-up window with form (HTML5, CSS3, JS) - <https://annakalenik.github.io/pop-up_window_with_form>/
-4. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__nerds>/
-5. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__creative_agency>/
-6. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__golden>/
-7. Landingpage (JS, HTML5, CSS3, BEM) - <https://www.ritual-lapichi.by>/
+1. Game tick-tack-toe (JS, HTML5, CSS3) - <https://annakalenik.github.io/game_tick-tack-toe>
+2. Todolist (HTML5, CSS3, JS) - <https://annakalenik.github.io/todolist>
+3. Pop-up window with form (HTML5, CSS3, JS) - <https://annakalenik.github.io/pop-up_window_with_form>
+4. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__nerds>
+5. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__creative_agency>
+6. Landingpage (HTML5, CSS3) - <https://annakalenik.github.io/site__golden>
+7. Landingpage (JS, HTML5, CSS3, BEM) - <https://www.ritual-lapichi.by>
 
 ## Education
 - **My IT School**, *online course in Minsk*\
