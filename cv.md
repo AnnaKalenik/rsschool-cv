@@ -29,6 +29,7 @@ ___
 * Basics React
 * Git/GitHub
 * Visual Studio Code
+* CMS Wordpress
 * Figma
 * Adobe PhotoShop
 
