@@ -1,7 +1,6 @@
 # HANNA KALENIK
 ### _Junior Frontend Developer_
 ![My photo](/images/photo_3.png)
-___
 
 ## Contact information
 ![Phone](/images/phone.png) +375447744890
@@ -60,13 +59,13 @@ console.log(sortingWords(str));
 7. Landingpage (JS, HTML5, CSS3, BEM) - https://www.ritual-lapichi.by/
 
 ## Education
-- **My IT School**, *online course in Minsk*
+- **My IT School**, *online course in Minsk*\
 Front-end development
-- **"Non-competitive approach"**, *online course*
+- **"Non-competitive approach"**, *online course*\
 WordPress and contextual advertising
-- **"Emotionally typesetting"**, *online course*
-Online course on HTML5 and CSS3
-- **Belarusian State Technological University (BSTU)**, *Minsk*
+- **"Emotionally typesetting"**, *online course*\
+HTML5 and CSS3
+- **Belarusian State Technological University (BSTU)**, *Minsk*\
 Faculty of Publishing and Printing, specialty "Technological Engineer of Printing Production"
 
 ## English
