@@ -28,3 +28,19 @@ ___
 * Visual Studio Code
 * Figma
 * Adobe PhotoShop
+
+## Example code
+___
+```
+let str = 'lorem ipsum is simply dummy text of the printing and typesetting industry';
+function sortingWords(str) {
+    let arrWords = str.split(' ');
+    let countingVowels = arrWords.reduce((acc, word, index) => {
+        acc[word] = { index, count: (word.match(/[aeiou]/gi) || []).length };
+        return acc;
+    }, {});
+    let result = arrWords.sort((a, b) => countingVowels[b].count - countingVowels[a].count).join(' ');
+    return result;
+}
+console.log(sortingWords(str));
+```
