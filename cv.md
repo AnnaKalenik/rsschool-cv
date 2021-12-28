@@ -58,7 +58,7 @@ ___
 6 Landingpage (HTML5, CSS3) - https://annakalenik.github.io/site__golden/
 7 Landingpage (JS, HTML5, CSS3, BEM) - https://www.ritual-lapichi.by/
 
-## Educational
+## Education
 ___
 - **My IT School**, *online course in Minsk*
 Front-end development
