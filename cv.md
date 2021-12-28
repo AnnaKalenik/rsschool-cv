@@ -68,3 +68,8 @@ WordPress and contextual advertising
 Online course on HTML5 and CSS3
 - **Belarusian State Technological University (BSTU)**, *Minsk*
 Faculty of Publishing and Printing, specialty "Technological Engineer of Printing Production"
+
+## English
+___
+
+A2 - Elementary
