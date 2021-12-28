@@ -16,3 +16,14 @@ I have been developing for about a year. I am actively developing in this direct
 
 I am a certified specialist in the field of printing. I have work experience (5 years) in a managerial position, which allowed me to develop such qualities as quick decision-making in difficult situations, the ability to quickly
 analyze information and work in multitasking mode, the ability to clearly set and distribute tasks. I love to understand the technologies that interest me and I bring the tasks to the end.
+## Skills
+___
+* HTML5
+* CSS3
+* SASS
+* BEM methodology
+* JavaScript
+* Basics React
+* Git/GitHub
+* Figma
+* Adobe PhotoShop
