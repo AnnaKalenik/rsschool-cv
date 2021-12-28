@@ -25,5 +25,6 @@ ___
 * JavaScript
 * Basics React
 * Git/GitHub
+* Visual Studio Code
 * Figma
 * Adobe PhotoShop
