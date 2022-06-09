@@ -107,7 +107,7 @@
 @media (max-width: 660px) {
     .main-professsion {
         font-size: 18px;
-        margin-right: 50%;
+        margin-right: 70%;
     }
 }
 
@@ -171,6 +171,12 @@
 
     .main-professsion {
         margin-right: 70%;
+    }
+}
+
+@media (max-width: 420px) {
+    .main-profile {
+        background-position: 100% -6px;
     }
 }
 
