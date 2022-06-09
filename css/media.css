@@ -173,6 +173,6 @@
 
 @media (max-width: 349px) {
     .header .list-body {
-        justify-content: space-around;
+        justify-content: space-between;
     }
 }

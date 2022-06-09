@@ -130,7 +130,7 @@ body {
 
 /*profile*/
 .main-profile {
-	padding: 7% 20%;
+	padding: 7% 15%;
 	position: relative;
 	background-image: url("../images/photo1.png");
 	background-size: cover;
@@ -142,7 +142,6 @@ body {
 	font-size: 30px;
 	color: #f6c941;
 	margin-bottom: 50px;
-	position: relative;
 }
 
 .main-title {
@@ -151,16 +150,10 @@ body {
 	line-height: 85px;
 	font-weight: bold;
 	margin-bottom: 50px;
-	position: relative;
-	z-index: 1;
 }
 
-.main-img {
-	width: 90%;
-	position: absolute;
-	top: -76px;
-	right: 0;
-	z-index: 0;
+.main-profile .list-link {
+	margin: 0 20px 0 0;
 }
 
 /*summary*/
