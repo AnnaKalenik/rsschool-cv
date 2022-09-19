@@ -113,7 +113,7 @@
 
 @media (max-width: 563px) {
     .header {
-        background-image: url("../images/photo.png");
+        background-image: url("../images/photo-mob.png");
     }
 
     .header li {
@@ -121,7 +121,7 @@
     }
 
     .main-profile {
-        background-image: url("../images/photo.png");
+        background-image: url("../images/photo-mob.png");
     	background-position: 100% -82px;
     }
 

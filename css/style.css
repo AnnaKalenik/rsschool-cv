@@ -95,7 +95,7 @@ body {
 /*header*/
 .header {
 	padding: 30px;
-	background-image: url("../images/photo1.png");
+	background-image: url("../images/photo2.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top right;
@@ -132,7 +132,7 @@ body {
 .main-profile {
 	padding: 7% 15%;
 	position: relative;
-	background-image: url("../images/photo1.png");
+	background-image: url("../images/photo2.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 100% -76px;
